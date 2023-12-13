@@ -1,0 +1,32 @@
+api=fundraiser-detail/57960238-1628-47bf-836f-e10cec1d76df
+
+Response Sample
+{
+    "id": "57960238-1628-47bf-836f-e10cec1d76df",
+    "organiser": "661dc854-a3d5-4237-b796-4a5f415db37e",
+    "title": "Fundraiser for Children Education",
+    "goal": "Improve Education System",
+    "description": "Praesentium, assumenda. Nulla dolor velit adipisicing duis excepteur esse in duis nostrud occaecat mollit incididunt deserunt sunt. Ut ut sunt laborum ex occaecat eu tempor labore enim adipisicing minim ad. Est in quis eu dolore occaecat excepteur fugiat dolore nisi aliqua fugiat enim ut cillum.",
+    "open_status": true,
+    "approved_status": "RE",
+    "target_amount": 600000,
+    "end_date": "2023-10-31",
+    "created_at": "10-11-2023",
+    "updated_at": "2023-12-07T11:17:43.506907Z",
+    "total_donors": 1,
+    "total_donation": 30,
+    "recent_donors": [
+        {
+            "donated_by__photo": "HUSKBEE_USER_PHOTO/681258-2048x1367.jpeg"
+        }
+    ],
+    "fundraiser_photo": [
+        {
+            "id": "b06aa438-f93c-4f07-904d-da522a65550a",
+            "photo": "/media/FUND_RAISER_PHOTO/docker_SOdyuHZ.JPG",
+            "fundraiser": "57960238-1628-47bf-836f-e10cec1d76df"
+        }
+    ],
+    "organiser_name": "Event Organiser",
+    "organiser_logo": "ORGANISER_LOGO/googleicon_UZ1fFH4.jpg"
+}
